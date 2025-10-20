@@ -12,7 +12,6 @@ use App\Http\Controllers\AbsenController;
 use App\Http\Controllers\LabManagementController;
 use App\Http\Controllers\DeviceController;
 use App\Http\Controllers\JurnalController;
-use App\Http\Controllers\TimetableController;
 use App\Http\Controllers\MataPelajaranController;
 use App\Http\Controllers\GuruController;
 use App\Models\Absensi;
